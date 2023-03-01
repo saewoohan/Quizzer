@@ -9,4 +9,4 @@ MVC모델을 구현해봄.
 ----
 실행영상
 
-<img src = "https://user-images.githubusercontent.com/112225610/222104890-f809c69c-4048-4ccd-afed-3e2c9ca5ae03.gif" width = "30%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/112225610/222108218-405b6289-fce8-4782-886b-f77c16806dd3.gif" width = "30%" height = "50%">
